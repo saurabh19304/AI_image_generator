@@ -87,7 +87,7 @@ Or host your own model using transformers locally
 
 
 📸 Preview
-Here’s how the app looks: YOU can preview the site through deployment (github pages)
+Here’s how the app looks: https://saurabh19304.github.io/AI_image_generator/
 
 
 📌 Setup Instructions
