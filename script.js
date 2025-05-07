@@ -8,7 +8,7 @@ const countSelect = document.getElementById('count-select');
 const ratioSelect = document.getElementById('ratio-select');
 const gridGallery = document.querySelector('.gallery-grid');
 
-const API_KEY = 'your_huggingface_API here'; //huggingface API key
+const API_KEY = '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'; //huggingface API key (it should be handled with node,js but for testing It needs to be public for now)
 
 const examplePrompts = [
   "A magic forest with glowing plants and fairy homes among giant mushrooms",
