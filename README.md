@@ -90,16 +90,6 @@ Or host your own model using transformers locally
 Here’s how the app looks: https://saurabh19304.github.io/AI_image_generator/
 
 
-📌 Setup Instructions
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/ai-image-generator.git
-cd ai-image-generator
-Open index.html in any browser.
-
 Replace your Hugging Face API key in script.js:
 
 js
